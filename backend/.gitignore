@@ -1,0 +1,5 @@
+node_modules
+
+# Keeping environment variables intentionally ignored
+
+/src/generated/prisma
