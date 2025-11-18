@@ -106,21 +106,24 @@ Open your browser and navigate to `http://localhost:3000`
 ### Default Credentials (if you ran the seed)
 
 **Admin User:**
+
 ```
 Email: admin@example.com
-Password: admin123
+Password: password123
 ```
 
 **Store Owner:**
+
 ```
 Email: owner1@example.com
-Password: owner123
+Password: password123
 ```
 
 **Regular User:**
+
 ```
 Email: user1@example.com
-Password: user123
+Password: password123
 ```
 
 ---
